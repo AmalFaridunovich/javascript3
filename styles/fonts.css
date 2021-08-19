@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "poppins-thin";
+    src: url(../fonts/poppins/Poppins-Thin.ttf)
+}
+@font-face {
+    font-family: "poppins-bold";
+    src: url(../fonts/poppins/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'roboto-light';
+    src: url("../fonts/roboto/Roboto-Light.ttf");
+   
+}
+@font-face {
+  font-family: "open-sans";
+  src:  url(../fonts/open-sans/OpenSans-ExtraBold.ttf);
+}
+@font-face{
+    font-family: "opensans-thin";
+    src: url(../fonts/open-sans/OpenSans-Light.ttf);
+}
+@font-face{
+    font-family: "nunito light";
+    src: url(../fonts/nunito/Nunito-Light.ttf);
+}
+@font-face{
+    font-family: "opensans-condensed";
+    src: url(../fonts/open-sans/OpenSansCondensed-Light.ttf);
+}
+@font-face{
+    font-family: "opensans-regular";
+    src: url(../fonts/open-sans/OpenSans-Regular.ttf);
+}
+@font-face{
+    font-family: "variable";
+    src: url(../fonts/raleway/Raleway-VariableFont_wght.ttf);
+}
+@font-face{
+    font-family: "italic";
+    src: url(../fonts/poppins/Poppins-Italic.ttf);
+}
+@font-face{
+    font-family: "bold";
+    src: url(../fonts/roboto/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: "regular";
+    src: url(../fonts/roboto/Roboto-Regular.ttf);
+}
+@font-face{
+    font-family: "thin";
+    src: url(../fonts/roboto/Roboto-Thin.ttf);
+}
+@font-face{
+    font-family: 'comforta';
+    src: url(../fonts/comfortaa/Comfortaa-VariableFont_wght.ttf)
+}
